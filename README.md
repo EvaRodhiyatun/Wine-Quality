@@ -13,17 +13,29 @@ Berdasarkan konteks dan permasalahan yang telah dijelaskan, tujuan dari peneliti
 Berikut adalah variabel-variabel yang terdapat dalam dataset.
 
 **- fixed acidity**: Kandungan asam tetap (misal tartaric acid)
+
 **- volatile acidity**: Asam volatil (mempengaruhi aroma dan rasa asam)
+
 **- citric acid**: Menambah kesegaran rasa
+
 **- residual sugar**: Jumlah gula yang tersisa setelah fermentasi
+
 **- chlorides**:	Kandungan garam dalam wine
+
 **- free sulfur dioxide**:	Sulfur bebas untuk mencegah oksidasi
+
 **- total sulfur dioxide**:	Total kandungan sulfur dioksida
+
 **- density**:	Kepadatan cairan (berhubungan dengan kadar gula & alkohol)
+
 **- pH**:	Tingkat keasaman
+
 **- sulphates**:	Berkontribusi pada stabilitas dan rasa
+
 **- alcohol**:	Persentase alkohol dalam wine
+
 **- quality**:	Skor kualitas (target klasifikasi)
+
 **- Id**:	Nomor identifikasi sampel
 
 Data yang digunakan dalam penelitian ini mencakup berbagai variabel yang berkaitan dengan karakteristik fisik dan kimia dari wine. Setiap baris dalam dataset merepresentasikan satu sampel wine, sementara setiap kolom menunjukkan atribut atau fitur tertentu seperti kadar alkohol, keasaman, gula residual, pH, kadar sulfur, dan lain-lain. Variabel-variabel ini memberikan wawasan penting mengenai faktor-faktor yang memengaruhi kualitas wine. Dengan memahami pola hubungan antarvariabel tersebut, dapat dikembangkan model prediksi yang mampu mengklasifikasikan tingkat kualitas wine secara akurat, sehingga membantu perusahaan dalam mengontrol mutu dan meningkatkan standar produksinya.
