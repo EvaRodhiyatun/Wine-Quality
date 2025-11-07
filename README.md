@@ -11,6 +11,7 @@ Berdasarkan konteks dan permasalahan yang telah dijelaskan, tujuan dari peneliti
 
 # Dataset
 Berikut adalah variabel-variabel yang terdapat dalam dataset.
+
 **- fixed acidity**: Kandungan asam tetap (misal tartaric acid)
 **- volatile acidity**: Asam volatil (mempengaruhi aroma dan rasa asam)
 **- citric acid**: Menambah kesegaran rasa
