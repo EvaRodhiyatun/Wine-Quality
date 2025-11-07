@@ -3,7 +3,7 @@
 # Konteks
 Dalam industri minuman, khususnya produksi anggur (wine), menjaga kualitas produk merupakan faktor kunci untuk mempertahankan reputasi dan daya saing. Kualitas wine dipengaruhi oleh berbagai faktor kimia dan fisik yang timbul selama proses fermentasi dan penyimpanan, seperti kadar asam, gula, alkohol, dan sulfur dioksida. Untuk membantu pengambilan keputusan dalam pengendalian mutu, perusahaan perlu memiliki model prediksi yang mampu menentukan tingkat kualitas wine berdasarkan karakteristik kimiawinya.
 
-# Pernyataan Masalah
+# Problem Statement
 Produsen wine sering kali menghadapi tantangan dalam memastikan bahwa produk mereka memiliki kualitas yang konsisten. Kualitas yang menurun dapat berdampak negatif terhadap penjualan dan kepuasan pelanggan. Dengan mempertimbangkan berbagai variabel seperti kadar asam tetap (fixed acidity), kadar asam volatil (volatile acidity), kadar alkohol, kandungan gula sisa (residual sugar), serta kadar sulfur dioksida, produsen ingin mengembangkan model yang dapat memprediksi tingkat kualitas wine (quality) secara akurat. Masalah ini penting karena kualitas wine yang buruk akan mempengaruhi persepsi merek dan loyalitas pelanggan. Dengan model prediktif yang andal, perusahaan dapat mengidentifikasi kombinasi karakteristik kimia yang menghasilkan kualitas optimal dan melakukan perbaikan proses produksi secara tepat sasaran.
 
 # Tujuan
